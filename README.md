@@ -18,7 +18,8 @@ Repositorio : https://github.com/samzinha23/Missao-Nivel-2-Mundo-4-...git
 
 Integrante: Samantha Karina Barbosa Torres.
 
-Objetivos da prática
+<h1>Objetivos da prática</h1>
+
     Instalar e configurar o Flutter SDK e o ambiente de desenvolvimento integrado (IDE)
     de acordo com as melhores práticas;
     Empregar Widgets fundamentais, como MaterialApp, Scaffold, AppBar, Text e
